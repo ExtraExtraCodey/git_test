@@ -1,1 +1,2 @@
 This it the second file in my first Repo here on GitHub. 
+I'm adding this line now to test my understanding of the staged, working and committed stages.
